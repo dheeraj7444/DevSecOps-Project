@@ -160,7 +160,7 @@ Install below plugins
 
 4 Email Extension Plugin
 
-### **Configure Java and Nodejs in Global Tool Configuration**
+### **Configure Java and Nodejs in Global Tool Configuration **
 
 Goto Manage Jenkins → Tools → Install JDK(17) and NodeJs(16)→ Click on Apply and Save
 
